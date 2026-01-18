@@ -17,7 +17,6 @@
 
 ### 🚀 Projects & About
 
-- 🔭 I’m currently working on [Fake News Detection Model](https://github.com/codewithharshit17/Fake-New-Detector)
 - 🌱 I’m currently learning **Django Framework, Data Structures in Java**
 - 👨‍💻 All of my projects are available at [https://github.com/codewithharshit17](https://github.com/codewithharshit17)
 - 💬 Ask me about **Java and Python**
