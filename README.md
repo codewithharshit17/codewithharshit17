@@ -29,9 +29,6 @@
 <a href="https://linkedin.com/in/harshit-m-jaiswar" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
 </a>
-<a href="https://twitter.com/harshit4566" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/>
-</a>
 <a href="https://kaggle.com/harshitjaiswar" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="32"/>
 </a>
