@@ -3,15 +3,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8EFC&height=200&section=header&text=Harshit%20Jaiswar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Full+Stack+Learner;Django+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;Django+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
 
 </div>
+
 
 ---
 
 # 👋 About Me
 
-<img align="right" height="260" src="https://media.giphy.com/media/lXo8uSnIkaB9e/giphy.gif"/>
+<table>
+<tr>
+<td width="60%">
 
 🎓 2nd-year Engineering Student (AI & Data Science)  
 🌍 Mumbai, India  
@@ -20,6 +23,15 @@
 🧠 Interested in **AI, Web Dev, and GenAI tools**  
 
 ⚡ Fun fact: I blend code, design, and chaos into projects.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/lXo8uSnIkaB9e/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,13 +76,7 @@
 # 🚀 Featured Projects
 
 🔹 **ISRO Heatwave Analysis System**  
-Geospatial AI + satellite data + LLM reasoning  
-
-🔹 **AI Caption Generator Agent**  
-LLM-based Instagram content assistant  
-
-🔹 **Flutter NGO App UI**  
-Modern mobile UI with parallax layers  
+Geospatial AI + satellite data + LLM reasoning   
 
 👉 All projects:  
 https://github.com/codewithharshit17  
@@ -79,16 +85,27 @@ https://github.com/codewithharshit17
 
 # 📊 GitHub Stats
 
-<div align="center">
+<table>
+<tr>
+<td align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithharshit17&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=codewithharshit17&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codewithharshit17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-</div>
+</td>
+<td align="center">
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharshit17&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=codewithharshit17&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharshit17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
