@@ -32,14 +32,8 @@
 <a href="https://twitter.com/harshit4566" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="32"/>
 </a>
-<a href="https://instagram.com/unfiltered_harshit_" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="32"/>
-</a>
 <a href="https://kaggle.com/harshitjaiswar" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="32"/>
-</a>
-<a href="https://leetcode.com/codewithharshit17" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="32"/>
 </a>
 <a href="mailto:artharshitj@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32"/>
@@ -63,7 +57,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
@@ -97,16 +90,8 @@ https://github.com/codewithharshit17
 </div>
 
 <div align="center">
-
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharshit17&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
-
----
-
-# 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithharshit17&theme=tokyo-night&hide_border=true"/>
 
 ---
 
