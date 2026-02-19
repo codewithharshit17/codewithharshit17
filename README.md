@@ -87,24 +87,14 @@ https://github.com/codewithharshit17
 
 <table>
 <tr>
-<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codewithharshit17&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</td>
 <td align="center">
 
 <img src="https://streak-stats.demolab.com?user=codewithharshit17&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithharshit17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-</td>
-</tr>
 </table>
 
 ---
