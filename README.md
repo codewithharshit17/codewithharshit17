@@ -1,11 +1,11 @@
 <!-- ================= ANIMATED HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,50:0d0d0d,100:111111&height=220&section=header&text=HARSHIT%20JAISWAR&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=55&stroke=ffffff&strokeWidth=1&desc=AI%20%26%20Data%20Science%20%7C%20Mumbai%2C%20India&descSize=16&descAlignY=78&descColor=aaaaaa"/>
+<img src="https://github.com/codewithharshit17/codewithharshit17/raw/main/HARSHIT%20JAISWAR%20(1).gif" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;AI+%7C+ML+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;AI+%7C+ML+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
 
 </div>
 
