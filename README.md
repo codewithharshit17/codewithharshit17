@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8EFC&height=200&section=header&text=Harshit%20Jaiswar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;Django+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;AI&ML+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
 
 </div>
 
@@ -16,10 +16,10 @@
 <tr>
 <td width="60%">
 
-🎓 2nd-year Engineering Student (AI & Data Science)  
+🎓 Engineering Student (AI & Data Science)  
 🌍 Mumbai, India  
 💻 Passionate about building intelligent and creative tech  
-🚀 Currently learning **Django + DSA (Java)**  
+🚀 Currently learning **ML + DSA (Java)**  
 🧠 Interested in **AI, Web Dev, and GenAI tools**  
 
 ⚡ Fun fact: I blend code, design, and chaos into projects.
