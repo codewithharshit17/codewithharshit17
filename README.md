@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8EFC&height=200&section=header&text=Harshit%20Jaiswar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;AI&ML+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;AI+is+not+the+future%2C+it's+the+present.;AI+%7C+ML+%7C+Python+%7C+Java;Building+Creative+Tech+Projects"/>
 
 </div>
 
