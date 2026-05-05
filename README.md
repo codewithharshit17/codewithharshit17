@@ -24,7 +24,7 @@
 
 ## About Me 💫
 
-<table>
+<table align="center">
 <tr>
 <td width="60%">
 
