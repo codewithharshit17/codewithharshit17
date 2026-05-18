@@ -21,7 +21,8 @@
 </div>
 
 ---
-
+<div align ="center">
+  
 ## About Me 💫
 
 <table align="center">
@@ -109,13 +110,7 @@ Geospatial AI + satellite data + LLM reasoning
 
 </div>
 
-## 🔝 Top Contributed Repositories
 
-<div align="center">
-
-[![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=codewithharshit17&theme=github_dark&combine_all_yearly_contributions=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -131,7 +126,7 @@ Geospatial AI + satellite data + LLM reasoning
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/harshit-m-jaiswar" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
 </a>
@@ -145,13 +140,17 @@ Geospatial AI + satellite data + LLM reasoning
 </a>
 </p>
 
-## 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=codewithharshit17&label=Profile%20views&color=6C63FF&style=flat"/>
+</div>
 
 ---
+<div align="center">
 
+## 👀 Profile Views
+
+<img  src="https://komarev.com/ghpvc/?username=codewithharshit17&label=Profile%20views&color=6C63FF&style=flat"/>
+  
 ### 🤝 Let's Connect and Build Something Amazing Together!
+</div>
 
 <div align="center">
 
