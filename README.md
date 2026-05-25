@@ -97,8 +97,7 @@ Geospatial AI + satellite data + LLM reasoning
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codewithharshit17&theme=merko)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codewithharshit17&theme=merko)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codewithharshit17&theme=merko)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codewithharshit17&theme=merko)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codewithharshit17&theme=merko&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 </div>
 
