@@ -101,14 +101,6 @@ Geospatial AI + satellite data + LLM reasoning
 
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=codewithharshit17&theme=juicyfresh&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 
 
 ---
