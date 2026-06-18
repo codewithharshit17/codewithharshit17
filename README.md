@@ -84,7 +84,7 @@ Geospatial AI + satellite data + LLM reasoning
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithharshit17&theme=merko&border_radius=6&mode=weekly&hide_border=true&cache_seconds=1800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=codewithharshit17&theme=merko&border_radius=6&mode=weekly&hide_border=true)](https://git.io/streak-stats)
 
 [![GitHub Contribution Stats](https://github-readme-activity-graph.vercel.app/graph?username=codewithharshit17&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
