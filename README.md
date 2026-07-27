@@ -123,10 +123,7 @@ Geospatial AI + satellite data + LLM reasoning
 <a href="https://linkedin.com/in/harshit-m-jaiswar" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
 </a>
-&nbsp;
-<a href="https://kaggle.com/harshitjaiswar" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="32"/>
-</a>
+
 &nbsp;
 <a href="mailto:artharshitj@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="32"/>
